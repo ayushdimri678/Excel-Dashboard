@@ -27,3 +27,5 @@ Two separate lines represent bike ownership, showing one for customers who own a
 Examines customer commuting patterns, highlighting the distance traveled to reach their workplace.
 
 This visualization is also segmented by bike ownership, providing insights into how commuting behaviors differ based on ownership status.
+
+**The repository includes the Excel Project Dataset.xlsx file, which contains the dataset and dashboard for the analysis. Additionally, a screenshot of the dashboard has been provided as dashboard.png for quick reference.**
